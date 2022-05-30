@@ -1,0 +1,4 @@
+eye: 눈
+bycle: 자전거
+bye: 안녕
+eye: 눈
